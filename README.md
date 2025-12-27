@@ -6,10 +6,6 @@
 Junior Student at Purdue University focusing on Full-Stack Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+Cloud+Enthusiast;CS+Student+at+Purdue+University;Always+Learning+🚀" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 </p>
 
