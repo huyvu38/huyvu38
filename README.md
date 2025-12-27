@@ -14,10 +14,7 @@
 
 <br />
 
-<div align="center" class="stats">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=huyvu38&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="50%" />
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyvu38&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="38%">
-</div>
+
 
 <br />
 
