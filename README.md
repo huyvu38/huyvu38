@@ -1,5 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&fontSize=40&fontColor=ffffff" />
+</p>
+
 ## Hi, I'm Huy Vu 👋  
 Junior Student at Purdue University focusing on Full-Stack Development
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+Cloud+Enthusiast;CS+Student+at+Purdue+University;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+</p>
 
 ---
 
@@ -27,13 +39,22 @@ Junior Student at Purdue University focusing on Full-Stack Development
 
 ---
 
+### 📫 Connect With Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/huy-vu-36731030a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:huyvu.hv.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+</p>
+
 
 
